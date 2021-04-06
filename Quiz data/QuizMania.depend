@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1569000564 source:/home/ritesh/Ourquiz/QuizMania/main.cpp
+	<iostream>
+	"Question.h"
+	<unistd.h>
+	"QsnSets.h"
+	<iterator>
+	<bits/stdc++.h>
+
+1569080594 /home/ritesh/Ourquiz/QuizMania/Question.h
+	<iostream>
+	<unistd.h>
+
+1569078827 /home/ritesh/Ourquiz/QuizMania/DummyQuestion.h
+	<iostream>
+	<list>
+	<algorithm>
+	<random>
+	<functional>
+	<string>
+
+1569078909 /home/ritesh/Ourquiz/QuizMania/QsnSets.h
+	<iostream>
+	<unistd.h>
+	<time.h>
+	"DummyQuestion.h"
+	<termios.h>
+
+1568691834 /home/ritesh/Ourquiz/QuizMania/frontpage.h
+	<iostream>
+
+1568951495 /home/ritesh/Ourquiz/QuizMania/MyThread.h
+	<iostream>
+
